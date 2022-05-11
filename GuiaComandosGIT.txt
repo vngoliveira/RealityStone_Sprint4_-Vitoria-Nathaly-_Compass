@@ -1,0 +1,12 @@
+Alguns comandos básicos para o uso do GIT:
+
+1 - git init = inicia um novo repositório ou já existente no controle de versão.
+2 - git clone = baixa o código-fonte de um repositório remoto.
+3 - git branch = cria uma nova ramificação no repositório.
+4 - git checkout = muda para uma outra branch já existente entre as ramificações.
+5 - git add = adiciona uma alteração na fila para aguardar o commit.
+6 - git push = publica mudanças da versão em servidor remoto
+7 - git pull = obtem atualizações do repositório remoto.
+8 - git merge = junta duas ramificações que foram alteradas
+9 - git revert = desfaz o último commit feito.
+10 - git status = mostra informações de estado sobre o projeto atual
