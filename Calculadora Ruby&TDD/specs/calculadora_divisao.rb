@@ -10,7 +10,7 @@ describe('Calculadora de divisão') do
     end
 
     it('Calcular a divisão de dois números decimais positivos') do
-        expect(calculadora.div(21.6, 13.3).round(1)).to eq 1,6
+        expect(calculadora.div(21.6, 13.3).round(1)).to eq 1.6
     end
 
     it('Calcular a divisão de dois números inteiros negativos') do
@@ -21,7 +21,7 @@ describe('Calculadora de divisão') do
         expect(calculadora.div(-12, 4)).to eq -3
     end
 
-    it('Calcular a divisão de um número inteiro positivo somado ao 0') do
+    it('Calcular a divisão de um número inteiro positivo com o 0') do
         expect(calculadora.div(14, 0)).to eq "Impossível dividir qualquer número por 0!"
     end
 end

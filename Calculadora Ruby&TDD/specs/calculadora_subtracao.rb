@@ -21,7 +21,7 @@ describe('Calculadora de subtração') do
         expect(calculadora.sub(-36, 23)).to eq -59
     end
 
-    it('Calcular a subtração de um número inteiro positivo somado ao 0') do
+    it('Calcular a subtração de um número inteiro positivo com o 0') do
         expect(calculadora.sub(90, 0)).to eq 90
     end
 end

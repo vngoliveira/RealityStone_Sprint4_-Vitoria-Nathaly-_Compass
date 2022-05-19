@@ -21,7 +21,7 @@ describe('Calculadora de soma') do
         expect(calculadora.soma(-12, 24)).to eq 12
     end
 
-    it('Calcular a soma de um número inteiro positivo somado ao 0') do
+    it('Calcular a soma de um número inteiro positivo com o 0') do
         expect(calculadora.soma(20, 0)).to eq 20
     end
 end

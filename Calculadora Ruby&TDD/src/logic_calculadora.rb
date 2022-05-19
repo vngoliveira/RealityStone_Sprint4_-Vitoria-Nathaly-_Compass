@@ -19,4 +19,16 @@ class Calculadora
             "Impossível dividir qualquer número por 0!"
         end
     end
+
+    def exp(n1, n2)
+        n1**n2
+    end
+
+    def soma_sub(n1, n2, n3, n4)
+        n1+n2-n3+n4
+    end
+
+    def soma_mult(n1, n2, n3, n4)
+        n1+n2*n3+n4
+    end
 end

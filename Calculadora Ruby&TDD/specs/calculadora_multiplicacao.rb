@@ -21,7 +21,7 @@ describe('Calculadora de multiplicação') do
         expect(calculadora.mult(-23, 41)).to eq -943
     end
 
-    it('Calcular a multiplicação de um número inteiro positivo somado ao 0') do
+    it('Calcular a multiplicação de um número inteiro positivo com o 0') do
         expect(calculadora.mult(12, 0)).to eq 0
     end
 end
