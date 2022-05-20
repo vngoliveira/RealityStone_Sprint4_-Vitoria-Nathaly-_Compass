@@ -4,7 +4,7 @@ Repositório para acomodação das atividades desenvolvidas ao longo da Sprint 4
 Aprendizagem de automação de testes com Ruby
 ## Assuntos abordados na referida Sprint
 ### Uso de Git e GitHub
-Momento de aprendizagem das tecnologias Git e GitHub para versionamento dos códigos desenvolvidos em Ruby;"\n"
+Momento de aprendizagem das tecnologias Git e GitHub para versionamento dos códigos desenvolvidos em Ruby;\n
 Prática e uso frequente das tecnologias para aprimoramento;
 Comandos principais usados: git init, git status, git add, git commit, git push, git merge, git pull;
 ### Linguagem Ruby
