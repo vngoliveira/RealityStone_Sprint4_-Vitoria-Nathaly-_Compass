@@ -57,4 +57,4 @@ bundle exec rspec specs\calculadora_soma_sub.rb
 # Autora
 Vitória Nathaly Gomes de Oliveira
 #### Contato
-https://www.linkedin.com/in/vit%C3%B3ria-nathaly-gomes-de-oliveira/
+<a href="https://www.linkedin.com/in/vit%C3%B3ria-nathaly-gomes-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
