@@ -58,3 +58,4 @@ bundle exec rspec specs\calculadora_soma_sub.rb
 Vitória Nathaly Gomes de Oliveira
 #### Contato
 <a href="https://www.linkedin.com/in/vit%C3%B3ria-nathaly-gomes-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="Vitória Nathaly#3660" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
