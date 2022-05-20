@@ -31,6 +31,13 @@ Git
 #### Instalação
 Para instalar o Ruby  na sua máquina, acess http://rubyinstaller.org/downloads/ <br />
 Para instalar o CMDER, acesse https://cmder.net/ <br />
+```bash
+# Para Windows
+gem install win32console
+# Para todos
+gem install bundler
+gem install ruby-debug-ide
+```
 Para instalar o VS Code, acesse https://code.visualstudio.com/download <br />
 Para instalar o Git na sua máquina, acesse https://git-scm.com/downloads
 #####  Extensões no VS Code
@@ -41,7 +48,8 @@ Ruby Solargraph
 # Para clonagem deste repositótio
 git clone https://github.com/vngoliveira/RealityStone_Sprint4_-Vitoria-Nathaly-_Compass.git
 # Para instalação da gem rspec (CMDER)
-bundle install 
+bundle install
+
 ```
 # Autora
 Vitória Nathaly Gomes de Oliveira
