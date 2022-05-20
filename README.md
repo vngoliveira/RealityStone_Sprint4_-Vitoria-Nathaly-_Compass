@@ -49,7 +49,10 @@ Ruby Solargraph
 git clone https://github.com/vngoliveira/RealityStone_Sprint4_-Vitoria-Nathaly-_Compass.git
 # Para instalação da gem rspec (CMDER)
 bundle install
-
+# Para execução dos códigos
+bundle exec rspec specs\<nome_da_calculadora>
+# Exemplo para <nome_da_calculadora>
+bundle exec rspec specs\calculadora_soma_sub.rb
 ```
 # Autora
 Vitória Nathaly Gomes de Oliveira
