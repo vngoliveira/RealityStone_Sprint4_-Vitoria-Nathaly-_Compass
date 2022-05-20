@@ -5,11 +5,11 @@ Aprendizagem de automação de testes com Ruby
 ## Assuntos abordados na referida Sprint
 ### Uso de Git e GitHub
 Momento de aprendizagem das tecnologias Git e GitHub para versionamento dos códigos desenvolvidos em Ruby;<br />
-Prática e uso frequente das tecnologias para aprimoramento;
+Prática e uso frequente das tecnologias para aprimoramento;<br />
 Comandos principais usados: git init, git status, git add, git commit, git push, git merge, git pull;
 ### Linguagem Ruby
-Estudo e aprendizagem da linguagem Ruby;
-Práticas com códigos em Ruby;
+Estudo e aprendizagem da linguagem Ruby;<br />
+Práticas com códigos em Ruby;<br />
 Aplicação da linguagem na escrita de códigos para testes unitários;
 ### TDD
 Uso da técnica Test Driven Development para criação de testes unitários
