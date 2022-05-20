@@ -37,12 +37,12 @@ Para instalar o Git na sua máquina, acesse https://git-scm.com/downloads
 Ruby <br />
 VSCode Ruby <br />
 Ruby Solargraph
-...bash
+'''bash
 # Para clonagem deste repositótio
 git clone https://github.com/vngoliveira/RealityStone_Sprint4_-Vitoria-Nathaly-_Compass.git
 # Para instalação da gem rspec (CMDER)
-bundle install
-...
+bundle install 
+'''
 # Autora
 Vitória Nathaly Gomes de Oliveira
 #### Contato
